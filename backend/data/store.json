@@ -1,0 +1,306 @@
+{
+  "customers": [
+    {
+      "id": "CUS-001",
+      "name": "Amina Bello",
+      "email": "amina@example.com",
+      "orders": [
+        {
+          "id": "ORD-1001",
+          "product": "Wireless Headphones",
+          "amount": 180,
+          "date": "2026-09-24",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": true,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-002",
+      "name": "Daniel Okafor",
+      "email": "daniel@example.com",
+      "orders": [
+        {
+          "id": "ORD-1002",
+          "product": "Smart Watch",
+          "amount": 240,
+          "date": "2026-09-10",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": true
+        }
+      ]
+    },
+    {
+      "id": "CUS-003",
+      "name": "Grace Mensah",
+      "email": "grace@example.com",
+      "orders": [
+        {
+          "id": "ORD-1003",
+          "product": "Laptop Stand",
+          "amount": 95,
+          "date": "2026-07-10",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-004",
+      "name": "Ibrahim Musa",
+      "email": "ibrahim@example.com",
+      "orders": [
+        {
+          "id": "ORD-1004",
+          "product": "Gaming Monitor",
+          "amount": 620,
+          "date": "2026-09-18",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": true,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-005",
+      "name": "Chiamaka Eze",
+      "email": "chiamaka@example.com",
+      "orders": [
+        {
+          "id": "ORD-1005",
+          "product": "Office Chair",
+          "amount": 410,
+          "date": "2026-09-01",
+          "status": "delivered",
+          "finalSale": true,
+          "damaged": true,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-006",
+      "name": "Samuel Adeyemi",
+      "email": "samuel@example.com",
+      "orders": [
+        {
+          "id": "ORD-1006",
+          "product": "Mechanical Keyboard",
+          "amount": 150,
+          "date": "2026-09-22",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": true
+        }
+      ]
+    },
+    {
+      "id": "CUS-007",
+      "name": "Fatima Yusuf",
+      "email": "fatima@example.com",
+      "orders": [
+        {
+          "id": "ORD-1007",
+          "product": "Coffee Machine",
+          "amount": 330,
+          "date": "2026-09-05",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-008",
+      "name": "Michael Cole",
+      "email": "michael@example.com",
+      "orders": [
+        {
+          "id": "ORD-1008",
+          "product": "Tablet",
+          "amount": 480,
+          "date": "2026-09-15",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": true,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-009",
+      "name": "Zainab Ali",
+      "email": "zainab@example.com",
+      "orders": [
+        {
+          "id": "ORD-1009",
+          "product": "Running Shoes",
+          "amount": 120,
+          "date": "2026-09-27",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": true
+        }
+      ]
+    },
+    {
+      "id": "CUS-010",
+      "name": "Peter James",
+      "email": "peter@example.com",
+      "orders": [
+        {
+          "id": "ORD-1010",
+          "product": "Bluetooth Speaker",
+          "amount": 75,
+          "date": "2026-08-01",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-011",
+      "name": "Ngozi Okoye",
+      "email": "ngozi@example.com",
+      "orders": [
+        {
+          "id": "ORD-1011",
+          "product": "Camera Lens",
+          "amount": 780,
+          "date": "2026-09-20",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": true
+        }
+      ]
+    },
+    {
+      "id": "CUS-012",
+      "name": "David Mensah",
+      "email": "david@example.com",
+      "orders": [
+        {
+          "id": "ORD-1012",
+          "product": "Desk Lamp",
+          "amount": 65,
+          "date": "2026-09-26",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": true,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-013",
+      "name": "Sarah Williams",
+      "email": "sarah@example.com",
+      "orders": [
+        {
+          "id": "ORD-1013",
+          "product": "Air Purifier",
+          "amount": 290,
+          "date": "2026-08-25",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": false
+        }
+      ]
+    },
+    {
+      "id": "CUS-014",
+      "name": "Tunde Balogun",
+      "email": "tunde@example.com",
+      "orders": [
+        {
+          "id": "ORD-1014",
+          "product": "USB-C Dock",
+          "amount": 135,
+          "date": "2026-09-29",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": true
+        }
+      ]
+    },
+    {
+      "id": "CUS-015",
+      "name": "Leila Hassan",
+      "email": "leila@example.com",
+      "orders": [
+        {
+          "id": "ORD-1015",
+          "product": "4K Projector",
+          "amount": 550,
+          "date": "2026-09-12",
+          "status": "delivered",
+          "finalSale": false,
+          "damaged": false,
+          "incorrect": false
+        }
+      ]
+    }
+  ],
+  "refundRequests": [
+    {
+      "id": "REF-0001",
+      "customerId": "CUS-001",
+      "customerName": "Amina Bello",
+      "orderId": "ORD-1001",
+      "product": "Wireless Headphones",
+      "amount": 180,
+      "message": "My item arrived damaged and I would like a refund.",
+      "decision": "APPROVED",
+      "reason": "The order is within the refund window and the item is recorded as damaged.",
+      "flags": [],
+      "aiAvailable": false,
+      "aiReasoning": "AI key not configured; deterministic policy engine supplied the decision.",
+      "createdAt": "2026-10-01T13:52:22.451Z"
+    },
+    {
+      "id": "REF-0002",
+      "customerId": "CUS-001",
+      "customerName": "Amina Bello",
+      "orderId": "ORD-1001",
+      "product": "Wireless Headphones",
+      "amount": 180,
+      "message": "My item arrived damaged and I would like a refund.",
+      "decision": "APPROVED",
+      "reason": "The order is within the refund window and the item is recorded as damaged.",
+      "flags": [],
+      "aiAvailable": false,
+      "aiReasoning": "AI integration error: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+      "createdAt": "2026-10-01T14:06:46.758Z"
+    },
+    {
+      "id": "REF-0003",
+      "customerId": "CUS-006",
+      "customerName": "Samuel Adeyemi",
+      "orderId": "ORD-1006",
+      "product": "Mechanical Keyboard",
+      "amount": 150,
+      "message": "My item arrived damaged and I would like a refund.",
+      "decision": "APPROVED",
+      "reason": "The order is within the refund window and the item is recorded as incorrect.",
+      "flags": [],
+      "aiAvailable": false,
+      "aiReasoning": "AI integration error: You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+      "createdAt": "2026-10-01T14:20:18.708Z"
+    }
+  ]
+}
